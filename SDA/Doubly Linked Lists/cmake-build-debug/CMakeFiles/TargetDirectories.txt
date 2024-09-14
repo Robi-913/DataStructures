@@ -1,0 +1,3 @@
+C:/Users/ardel/Desktop/sda/pregatire/liste dubluinla/cmake-build-debug/CMakeFiles/liste_dubluinla.dir
+C:/Users/ardel/Desktop/sda/pregatire/liste dubluinla/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ardel/Desktop/sda/pregatire/liste dubluinla/cmake-build-debug/CMakeFiles/rebuild_cache.dir

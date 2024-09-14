@@ -1,0 +1,3 @@
+C:/Users/Robert/Documents/facultate/SDA/BfsDfs/cmake-build-debug/CMakeFiles/bfsdfs.dir
+C:/Users/Robert/Documents/facultate/SDA/BfsDfs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Robert/Documents/facultate/SDA/BfsDfs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
