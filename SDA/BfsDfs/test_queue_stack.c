@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "queue_stack.h"  /// Se include head-urul
+#include "queue_stack.h" 
 
 int main()
 {
