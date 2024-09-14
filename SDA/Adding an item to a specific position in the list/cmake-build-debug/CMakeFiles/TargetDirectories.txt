@@ -1,3 +1,0 @@
-C:/Users/Robert/Documents/facultate/anu1/sda/pregatire/adaugare la anumita pozitie liste/cmake-build-debug/CMakeFiles/prob5.dir
-C:/Users/Robert/Documents/facultate/anu1/sda/pregatire/adaugare la anumita pozitie liste/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Robert/Documents/facultate/anu1/sda/pregatire/adaugare la anumita pozitie liste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
