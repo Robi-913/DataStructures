@@ -1,0 +1,3 @@
+C:/Users/ardel/Desktop/sda/pregatire/dubluL stergere nod/cmake-build-debug/CMakeFiles/dubluL_stergere_nod.dir
+C:/Users/ardel/Desktop/sda/pregatire/dubluL stergere nod/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ardel/Desktop/sda/pregatire/dubluL stergere nod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
