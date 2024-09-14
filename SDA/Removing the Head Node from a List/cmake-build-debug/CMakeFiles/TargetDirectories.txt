@@ -1,0 +1,3 @@
+C:/Users/ardel/Desktop/sda/pregatire/stergere primului nod liste/cmake-build-debug/CMakeFiles/stergere_primului_nod_liste.dir
+C:/Users/ardel/Desktop/sda/pregatire/stergere primului nod liste/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ardel/Desktop/sda/pregatire/stergere primului nod liste/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/ardel/Desktop/sda/pregatire/doubleL inversare lista/cmake-build-debug/CMakeFiles/doubleL_inversare_lista.dir
+C:/Users/ardel/Desktop/sda/pregatire/doubleL inversare lista/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ardel/Desktop/sda/pregatire/doubleL inversare lista/cmake-build-debug/CMakeFiles/rebuild_cache.dir

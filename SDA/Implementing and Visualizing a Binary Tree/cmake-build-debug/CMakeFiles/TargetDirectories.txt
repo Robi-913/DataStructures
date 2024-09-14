@@ -1,0 +1,3 @@
+C:/Users/ardel/Desktop/sda/pregatire/binarytree creare-afisare/cmake-build-debug/CMakeFiles/binarytree_creare_afisare.dir
+C:/Users/ardel/Desktop/sda/pregatire/binarytree creare-afisare/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ardel/Desktop/sda/pregatire/binarytree creare-afisare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
